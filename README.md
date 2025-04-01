@@ -117,11 +117,4 @@ The following metrics were observed during the training:
 - **Loss during Training**: Decreased steadily with a slight fluctuation
 - **Validation Accuracy**: Stabilized around 80%
 
-### Training and Validation Accuracy:
-
-![Training and Validation Accuracy](./images/training_accuracy.png)
-
-### Training and Validation Loss:
-
-![Training and Validation Loss](./images/training_loss.png)
 
